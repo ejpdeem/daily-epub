@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+curl_cffi
+ebooklib
+feedparser
+python-dateutil
+python-dotenv
+
